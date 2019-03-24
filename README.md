@@ -19,7 +19,7 @@ https://dzone.com/articles/software-design-principles-dry-and-kiss
 
 The first line is the subject. (check if there is already a similar)
 
-The second line is the concept. (check if there is already a similar)
+The second line is the concept.
 
 The third line is the short description.
 
